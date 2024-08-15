@@ -11,5 +11,5 @@
 
 ###  鸣谢
 图标由[icons8](http://icons8.cn) 和 [icon_icons](https://icon-icons.com/zh/)提供
-AI大模型由[思知](http://sizhi.com)提供
-后台由 [水仙](http://shuixian.ltd) 和 [简源](https://jane.xingyige.cn) 提供
+\nAI大模型由[思知](http://sizhi.com)提供
+\n后台由 [水仙](http://shuixian.ltd) 和 [简源](https://jane.xingyige.cn) 提供
