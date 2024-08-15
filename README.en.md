@@ -10,6 +10,6 @@ The software architecture is armeabi+armeabi-v7a+arm64-v8a, which is highly comp
 Your adaptation must be accompanied by "Powered by shinestarcommunity"
 
 ### Acknowledgments
-Icons are provided by [icons8] (http://icons8.com) and [icon_icons] (https://icon-icons.com/en/).
-The AI model is provided by [Sizhi] (http://sizhi.com).
-The backend is provided by Narcissus (http://shuixian.ltd) and Simplified Source (https://jane.xingyige.cn).
+Icons are provided by [icons8](http://icons8.com) and [icon_icons](https://icon-icons.com/en/).
+The AI model is provided by [sizhi](http://sizhi.com).
+The backend is provided by [Yinan Narcissus](http://shuixian.ltd) and [JaneSource](https://jane.xingyige.cn).
