@@ -5,3 +5,9 @@
 
 #### 软件架构
 软件架构为 armeabi+armeabi-v7a+arm64-v8a，兼容性强，适用于安卓sdk15+的系统（安卓4.0.3以上），同时也支持harmony OS2~4的所有机型。
+
+###  开源要求
+您的改编版本需附带“Powered by shinestarcommunity”
+
+###  鸣谢
+icons by [icons8](http://icons8.cn)&[icon_icons](https://icon-icons.com/zh/)
