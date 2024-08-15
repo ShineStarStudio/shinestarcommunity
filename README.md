@@ -10,4 +10,5 @@
 您的改编版本需附带“Powered by shinestarcommunity”
 
 ###  鸣谢
-icons by [icons8](http://icons8.cn)&[icon_icons](https://icon-icons.com/zh/)
+图标由[icons8](http://icons8.cn) 和 [icon_icons](https://icon-icons.com/zh/)提供
+AI大模型由[思知](http://sizhi.com)提供
